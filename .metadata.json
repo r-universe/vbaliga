@@ -1,6 +1,14 @@
 [
   {
+    "package": "pathviewr",
+    "oncran": true
+  },
+  {
     "package": "gaussplotR",
+    "oncran": true
+  },
+  {
+    "package": "workloopR",
     "oncran": true
   }
 ]
