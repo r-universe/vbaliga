@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vbaliga/universe
+	url = https://github.com/vbaliga/vbaliga.r-universe.dev
 	branch = HEAD
 [submodule "gaussplotR"]
 	path = gaussplotR
